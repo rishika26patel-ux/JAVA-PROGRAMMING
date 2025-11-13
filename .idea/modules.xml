@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LECT1/LECT1.iml" filepath="$PROJECT_DIR$/LECT1/LECT1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LECT2/LECT2.iml" filepath="$PROJECT_DIR$/LECT2/LECT2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LECT3/LECT3.iml" filepath="$PROJECT_DIR$/LECT3/LECT3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LECT4/LECT4.iml" filepath="$PROJECT_DIR$/LECT4/LECT4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LECT5/LECT5.iml" filepath="$PROJECT_DIR$/LECT5/LECT5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LECT6/LECT6.iml" filepath="$PROJECT_DIR$/LECT6/LECT6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LECT7/LECT7.iml" filepath="$PROJECT_DIR$/LECT7/LECT7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LECT8/LECT8.iml" filepath="$PROJECT_DIR$/LECT8/LECT8.iml" />
+    </modules>
+  </component>
+</project>
