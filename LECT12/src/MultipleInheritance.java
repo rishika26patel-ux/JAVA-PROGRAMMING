@@ -1,10 +1,10 @@
-interface A{
+interface a{
     void sleep();
 }
-interface B{
+interface b{
     void sleep();
 }
-class c implements A,B{
+class c implements a,b{
     public void sleep(){
         System.out.println("hello");
     }
